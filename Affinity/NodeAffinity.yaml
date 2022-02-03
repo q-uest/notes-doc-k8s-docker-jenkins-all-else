@@ -1,8 +1,9 @@
 # NODE AFFINITY WITH "requiredDuringSchedulingIgnoredDuringExecution:"
+#############################
 
-
-# List Node's Labels
-# kubectl get node --show-labels
+# List Node's Labels:
+#          kubectl get node --show-labels
+######################
 
 ---
 
